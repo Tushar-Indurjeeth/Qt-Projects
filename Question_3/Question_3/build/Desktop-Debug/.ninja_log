@@ -1,0 +1,9 @@
+# ninja log v5
+55	548	1715709022529157030	Question_3_autogen/timestamp	688303aed01cc355
+55	548	1715709022529157030	Question_3_autogen/mocs_compilation.cpp	688303aed01cc355
+55	548	1715709022529157030	/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_3/Question_3/build/Desktop-Debug/Question_3_autogen/timestamp	688303aed01cc355
+55	548	1715709022529157030	/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_3/Question_3/build/Desktop-Debug/Question_3_autogen/mocs_compilation.cpp	688303aed01cc355
+549	3149	1715709025135139321	CMakeFiles/Question_3.dir/main.cpp.o	abc1075a5f141d65
+548	3163	1715709025149139226	CMakeFiles/Question_3.dir/Question_3_autogen/mocs_compilation.cpp.o	19d3bf5a251bab42
+549	4340	1715709026323131248	CMakeFiles/Question_3.dir/mainwindow.cpp.o	828e99a6e94a2d9d
+4340	4752	1715709026735128448	Question_3	449bf90de4f2e825

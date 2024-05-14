@@ -1,0 +1,9 @@
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/Question_4.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/install.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/Question_4_autogen_timestamp_deps.dir
+/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_4/Question_4/build/Desktop-Debug/CMakeFiles/Question_4_autogen.dir

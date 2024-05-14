@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0753a1f763f522916de6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Question_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_3-Debug-ac5a8363558d524e7404.json",
+					"name" : "Question_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_3_autogen-Debug-1ca1f483a6cfc666db63.json",
+					"name" : "Question_3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_3_autogen_timestamp_deps-Debug-8bc900af1a92945cd635.json",
+					"name" : "Question_3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_3/Question_3/build/Desktop-Debug",
+		"source" : "/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_3/Question_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

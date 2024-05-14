@@ -1,0 +1,13 @@
+# ninja log v5
+2711	3133	1715438463062453215	Question_1	2fdc210f6c7c19b9
+716	4366	1715438301755635299	CMakeFiles/Question_1.dir/SoftwareReview.cpp.o	4b7dd0c463c39d09
+40	2711	1715438462644456278	CMakeFiles/Question_1.dir/GUIManager.cpp.o	db8fb4f7d5159ce8
+713	4615	1715438302003633482	CMakeFiles/Question_1.dir/main.cpp.o	6eb09bd0992986d2
+714	3637	1715438301023640663	CMakeFiles/Question_1.dir/mainwindow.cpp.o	e43cd2d07ed5c349
+5	38	1715438459972475858	/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_1/build/Desktop_Qt_6_7_0-Debug/Question_1_autogen/mocs_compilation.cpp	14dc2caa6450b89f
+710	4090	1715438301467637410	CMakeFiles/Question_1.dir/Question_1_autogen/mocs_compilation.cpp.o	f92867b21afe8259
+5	38	1715438459972475858	/home/snow/Desktop/Unisa/Unisa 2024/COS3711/Assessment_1/Question_1/build/Desktop_Qt_6_7_0-Debug/Question_1_autogen/timestamp	14dc2caa6450b89f
+717	4076	1715438301464637432	CMakeFiles/Question_1.dir/ReviewManager.cpp.o	7d3dc24698c53ab0
+5	38	1715438459972475858	Question_1_autogen/mocs_compilation.cpp	14dc2caa6450b89f
+5	38	1715438459972475858	Question_1_autogen/timestamp	14dc2caa6450b89f
+2	258	1715439219020844924	build.ninja	8377f0442b584a7a

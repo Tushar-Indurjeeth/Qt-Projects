@@ -1,0 +1,19 @@
+    Name: Amanda Smith
+    Email: amanda.smith@example.com
+    Telephone: 555-123-4567
+
+    Name: Daniel Johnson
+    Email: daniel.johnson@example.com
+    Telephone: 555-9876543
+
+    Name: Jennifer Brown
+    Email: jennifer.brown@example.com
+    Telephone: 5557890123
+
+    Name: Christopher Taylor
+    Email: christopher.taylor@example.com
+    Telephone: (555)234-5678
+
+    Name: Samantha Martinez
+    Email: samantha.martinez@example.com
+    Telephone: (555)876-5432
